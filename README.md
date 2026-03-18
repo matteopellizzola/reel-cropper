@@ -2,7 +2,7 @@
 
 **Simple macOS app to crop your 16:9 videos to perfect 9:16 Instagram Reels.** Select folder → click → done. Powered by FFmpeg.
 
-![Reel Cropper](reelcropper_glass.png)
+![Reel Cropper](./icon.png)
 
 ## ✨ Features
 
